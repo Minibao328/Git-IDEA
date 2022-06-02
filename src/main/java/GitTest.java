@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("hot-fix,Git");
         System.out.println("master,Git");
         System.out.println("hot-fix2,Git");
+        System.out.println("远程库更新了,Git");
     }
 }
